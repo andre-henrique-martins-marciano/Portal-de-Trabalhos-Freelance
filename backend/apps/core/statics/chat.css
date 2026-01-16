@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #f0f2f5;
+}
+
+.chat-container {
+    display: flex;
+    height: 100vh;
+}
+
+/* LISTA DE CONVERSAS */
+.chat-list {
+    width: 300px;
+    background: #ffffff;
+    border-right: 1px solid #ddd;
+    padding: 15px;
+}
+
+.chat-list h2 {
+    margin-bottom: 15px;
+}
+
+.chat-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.chat-item:hover,
+.chat-item.active {
+    background: #e9ecef;
+}
+
+.chat-item img {
+    border-radius: 50%;
+}
+
+/* JANELA DO CHAT */
+.chat-window {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* HEADER */
+.chat-header {
+    background: #ffffff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* MENSAGENS */
+.chat-messages {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
+}
+
+.message {
+    max-width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.message.received {
+    background: #e4e6eb;
+    align-self: flex-start;
+}
+
+.message.sent {
+    background: #333c41;
+    color: white;
+    align-self: flex-end;
+}
+
+/* INPUT */
+.chat-input {
+    display: flex;
+    padding: 10px;
+    background: #ffffff;
+    border-top: 1px solid #ddd;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.chat-input button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    background: #333c41;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

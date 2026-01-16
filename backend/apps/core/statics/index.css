@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f4f6f8;
+  color: #333c41;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #333c41;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color:  #333c41 !important;
+}
+
+/* HERO */
+.hero {
+  background: linear-gradient(135deg, #333c41, #111827);
+  color: white;
+  padding: 90px 0;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.hero p {
+  margin: 20px 0;
+  color: #b8b7a0;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.search-box input {
+  width: 50%;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+}
+
+.search-box button {
+  padding: 10px 20px;
+  background:  #333c41;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+}
+
+/* CATEGORIAS */
+.category-card {
+  background: white;
+  padding: 30px;
+  text-align: center;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.category-card i {
+  font-size: 32px;
+  color:  #333c41;
+  margin-bottom: 10px;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* FOOTER */
+footer {
+  background: #111827;
+  color: #9ca3af;
+  padding: 25px 0;
+}

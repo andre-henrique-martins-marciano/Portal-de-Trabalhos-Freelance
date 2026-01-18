@@ -1,4 +1,3 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
-def pagina_inicial(request):
-    return HttpResponse("Olá! Esta é a minha primeira rota no Django.")
+# Create your views here.

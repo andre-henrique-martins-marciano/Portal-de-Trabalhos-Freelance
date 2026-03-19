@@ -1,5 +1,5 @@
 ---
-**PORTAL DE TRABALHO (FREELANCE)**
+**PORTAL DE TRABALHO (FREELANCE)
 
 Sobre o Projeto
 

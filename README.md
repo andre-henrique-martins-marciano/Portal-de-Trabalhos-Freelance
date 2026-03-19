@@ -1,38 +1,98 @@
-# Portal-de-Trabalhos-Freelance
-Freelance-Jobs-Portal Projeto em desenvolvimento com foco em evolução contínua e aplicação de boas práticas para compor meu portfólio profissional. O objetivo é transformar esta aplicação em um produto real para publicação futura.
----
+💼 Plataforma de Oportunidades para Freelancers
+📌 Sobre o Projeto
 
-## Objetivo do Projeto
+Este projeto é uma aplicação web desenvolvida com Python e Django, com o objetivo de conectar freelancers a oportunidades de trabalho.
 
-Criar um site onde freelancers possam:
+A plataforma funciona como um site de busca de oportunidades freelance, onde usuários podem visualizar, cadastrar e gerenciar vagas de forma simples e intuitiva.
 
-- Encontrar vagas e projetos de forma simples e organizada  
-- Filtrar oportunidades por categoria, tecnologia ou tipo de contrato  
-- Visualizar detalhes das vagas e requisitos  
-- Ter acesso a oportunidades centralizadas em um único lugar  
+🚀 Tecnologias Utilizadas
 
-O projeto busca reduzir a dificuldade de encontrar trabalhos freelance e servir como base para futuras melhorias, como autenticação, perfis de usuários e candidaturas.
+Python 🐍
 
----
+Django 🌐
 
-## Tecnologias Utilizadas
+HTML5
 
-- **Python**
-- **Django** / **Flask** *(ajuste conforme seu projeto)*
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
-- **SQLite** *(ou outro banco de dados, se aplicável)*
+CSS3
 
----
+🎯 Funcionalidades
 
-## Funcionalidades
+🔍 Listagem de oportunidades freelance
 
-- Listagem de vagas para freelancers  
-- Visualização detalhada das oportunidades  
-- Interface responsiva e intuitiva  
-- Estrutura organizada seguindo boas práticas  
-- Projeto preparado para futuras expansões  
+📝 Cadastro de novas vagas
 
----
+👤 Sistema de usuários (login e cadastro)
 
+📄 Visualização detalhada das oportunidades
+
+✏️ Edição e exclusão de vagas
+
+📱 Interface responsiva
+
+🖼️ Demonstração do Sistema
+
+📌 Dica: Crie uma pasta chamada images ou assets dentro do seu projeto e coloque os prints lá.
+
+🔐 Tela de Login
+![Tela de Login](images/login.png)
+🏠 Página Inicial
+![Página Inicial](images/home.png)
+🔎 Busca de Oportunidades
+![Busca de Oportunidades](images/busca.png)
+📄 Detalhes da Vaga
+![Detalhes da Vaga](images/detalhes.png)
+➕ Cadastro de Vaga
+![Cadastro de Vaga](images/cadastro.png)
+🧠 Como Funciona
+
+A aplicação segue o padrão Model-View-Template (MVT) do Django:
+
+Models → Estrutura dos dados
+
+Views → Regras de negócio
+
+Templates (HTML + CSS) → Interface
+
+O sistema conecta freelancers a oportunidades, permitindo a publicação e busca de vagas em um ambiente centralizado.
+
+⚙️ Como Executar o Projeto
+1. Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+2. Acesse a pasta
+cd seu-repositorio
+3. Crie um ambiente virtual
+python -m venv venv
+4. Ative o ambiente virtual
+
+Windows:
+
+venv\Scripts\activate
+
+Linux/Mac:
+
+source venv/bin/activate
+5. Instale as dependências
+pip install -r requirements.txt
+6. Execute as migrações
+python manage.py migrate
+7. Inicie o servidor
+python manage.py runserver
+8. Acesse
+http://127.0.0.1:8000/
+📈 Melhorias Futuras
+
+Sistema de avaliação ⭐
+
+Chat em tempo real 💬
+
+Filtros avançados 🔎
+
+Deploy em produção ☁️
+
+👨‍💻 Autor
+
+André Henrique Martins Marciano
+📍 São João del-Rei – MG
+🔗 LinkedIn: https://www.linkedin.com/in/andre-h-martins-marciano/
+
+💻 GitHub: https://github.com/andre-henrique-martins-marciano

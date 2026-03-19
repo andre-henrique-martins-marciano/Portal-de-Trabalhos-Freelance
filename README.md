@@ -138,14 +138,14 @@ http://127.0.0.1:8000/
 
 ## Melhorias Futuras
 
-* Sistema de avaliação ⭐
-* Chat em tempo real 💬
-* Filtros avançados 🔎
-* Deploy em produção ☁️
+* Sistema de avaliação
+* Chat em tempo real
+* Filtros avançados
+* Deploy em produção
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **André Henrique Martins Marciano**
 São João del-Rei – MG

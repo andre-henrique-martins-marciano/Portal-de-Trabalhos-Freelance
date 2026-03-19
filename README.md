@@ -1,98 +1,172 @@
-💼 Plataforma de Oportunidades para Freelancers
-📌 Sobre o Projeto
+Boa — isso deixa seu README muito mais profissional 👇
 
-Este projeto é uma aplicação web desenvolvida com Python e Django, com o objetivo de conectar freelancers a oportunidades de trabalho.
+Vou te entregar já com uma seção pronta e organizada para imagens (do jeito que recrutador gosta).
 
-A plataforma funciona como um site de busca de oportunidades freelance, onde usuários podem visualizar, cadastrar e gerenciar vagas de forma simples e intuitiva.
+---
 
-🚀 Tecnologias Utilizadas
+# 💼 Plataforma de Oportunidades para Freelancers
 
-Python 🐍
+## 📌 Sobre o Projeto
 
-Django 🌐
+Este projeto é uma aplicação web desenvolvida com **Python e Django**, com o objetivo de conectar freelancers a oportunidades de trabalho.
 
-HTML5
+A plataforma funciona como um **site de busca de oportunidades freelance**, onde usuários podem visualizar, cadastrar e gerenciar vagas de forma simples e intuitiva.
 
-CSS3
+---
 
-🎯 Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-🔍 Listagem de oportunidades freelance
+* Python 🐍
+* Django 🌐
+* HTML5
+* CSS3
 
-📝 Cadastro de novas vagas
+---
 
-👤 Sistema de usuários (login e cadastro)
+## 🎯 Funcionalidades
 
-📄 Visualização detalhada das oportunidades
+* 🔍 Listagem de oportunidades freelance
+* 📝 Cadastro de novas vagas
+* 👤 Sistema de usuários (login e cadastro)
+* 📄 Visualização detalhada das oportunidades
+* ✏️ Edição e exclusão de vagas
+* 📱 Interface responsiva
 
-✏️ Edição e exclusão de vagas
+---
 
-📱 Interface responsiva
+## 🖼️ Demonstração do Sistema
 
-🖼️ Demonstração do Sistema
+> 📌 **Dica:** Crie uma pasta chamada `images` ou `assets` dentro do seu projeto e coloque os prints lá.
 
-📌 Dica: Crie uma pasta chamada images ou assets dentro do seu projeto e coloque os prints lá.
+### 🔐 Tela de Login
 
-🔐 Tela de Login
+```md
 ![Tela de Login](images/login.png)
-🏠 Página Inicial
+```
+
+### 🏠 Página Inicial
+
+```md
 ![Página Inicial](images/home.png)
-🔎 Busca de Oportunidades
+```
+
+### 🔎 Busca de Oportunidades
+
+```md
 ![Busca de Oportunidades](images/busca.png)
-📄 Detalhes da Vaga
+```
+
+### 📄 Detalhes da Vaga
+
+```md
 ![Detalhes da Vaga](images/detalhes.png)
-➕ Cadastro de Vaga
+```
+
+### ➕ Cadastro de Vaga
+
+```md
 ![Cadastro de Vaga](images/cadastro.png)
-🧠 Como Funciona
+```
 
-A aplicação segue o padrão Model-View-Template (MVT) do Django:
+---
 
-Models → Estrutura dos dados
+## 🧠 Como Funciona
 
-Views → Regras de negócio
+A aplicação segue o padrão **Model-View-Template (MVT)** do Django:
 
-Templates (HTML + CSS) → Interface
+* **Models** → Estrutura dos dados
+* **Views** → Regras de negócio
+* **Templates (HTML + CSS)** → Interface
 
 O sistema conecta freelancers a oportunidades, permitindo a publicação e busca de vagas em um ambiente centralizado.
 
-⚙️ Como Executar o Projeto
-1. Clone o repositório
+---
+
+## ⚙️ Como Executar o Projeto
+
+### 1. Clone o repositório
+
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-2. Acesse a pasta
+```
+
+### 2. Acesse a pasta
+
+```bash
 cd seu-repositorio
-3. Crie um ambiente virtual
+```
+
+### 3. Crie um ambiente virtual
+
+```bash
 python -m venv venv
-4. Ative o ambiente virtual
+```
 
-Windows:
+### 4. Ative o ambiente virtual
 
+* Windows:
+
+```bash
 venv\Scripts\activate
+```
 
-Linux/Mac:
+* Linux/Mac:
 
+```bash
 source venv/bin/activate
-5. Instale as dependências
+```
+
+### 5. Instale as dependências
+
+```bash
 pip install -r requirements.txt
-6. Execute as migrações
+```
+
+### 6. Execute as migrações
+
+```bash
 python manage.py migrate
-7. Inicie o servidor
+```
+
+### 7. Inicie o servidor
+
+```bash
 python manage.py runserver
-8. Acesse
+```
+
+### 8. Acesse
+
+```
 http://127.0.0.1:8000/
-📈 Melhorias Futuras
+```
 
-Sistema de avaliação ⭐
+---
 
-Chat em tempo real 💬
+## 📈 Melhorias Futuras
 
-Filtros avançados 🔎
+* Sistema de avaliação ⭐
+* Chat em tempo real 💬
+* Filtros avançados 🔎
+* Deploy em produção ☁️
 
-Deploy em produção ☁️
+---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-André Henrique Martins Marciano
+**André Henrique Martins Marciano**
 📍 São João del-Rei – MG
-🔗 LinkedIn: https://www.linkedin.com/in/andre-h-martins-marciano/
+🔗 LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
+💻 GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
 
-💻 GitHub: https://github.com/andre-henrique-martins-marciano
+---
+
+## 📄 Licença
+
+MIT License
+
+---
+
+Se quiser, posso ainda:
+
+* montar **prints ideais (o que mostrar em cada tela)**
+* ou transformar isso em um README nível **GitHub destaque (com badges, status, deploy, etc.)** 🚀

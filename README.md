@@ -1,12 +1,6 @@
-Boa — isso deixa seu README muito mais profissional 👇
+Portal de Trabalhos (Freelance)
 
-Vou te entregar já com uma seção pronta e organizada para imagens (do jeito que recrutador gosta).
-
----
-
-# 💼 Plataforma de Oportunidades para Freelancers
-
-## 📌 Sobre o Projeto
+Sobre o Projeto
 
 Este projeto é uma aplicação web desenvolvida com **Python e Django**, com o objetivo de conectar freelancers a oportunidades de trabalho.
 
@@ -14,7 +8,7 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##Tecnologias Utilizadas
 
 * Python 🐍
 * Django 🌐

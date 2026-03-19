@@ -1,5 +1,5 @@
 ---
-Portal de Traablho (Freelance)
+PORTAL DE TRABALHO (FREELANCE)
 
 Sobre o Projeto
 

@@ -19,12 +19,12 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 
 ## Funcionalidades
 
-* 🔍 Listagem de oportunidades freelance
-* 📝 Cadastro de novas vagas
-* 👤 Sistema de usuários (login e cadastro)
-* 📄 Visualização detalhada das oportunidades
-* ✏️ Edição e exclusão de vagas
-* 📱 Interface responsiva
+* Listagem de oportunidades freelance
+* Cadastro de novas vagas
+* Sistema de usuários (login e cadastro)
+* Visualização detalhada das oportunidades
+* Edição e exclusão de vagas
+* Interface responsiva
 
 ---
 
@@ -38,7 +38,7 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 ![Tela de Login](images/login.png)
 ```
 
-### 🏠 Página Inicial
+### Página Inicial
 
 ```md
 ![Página Inicial](images/home.png)

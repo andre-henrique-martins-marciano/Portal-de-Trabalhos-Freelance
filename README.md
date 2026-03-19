@@ -8,16 +8,16 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 
 ---
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-* Python 🐍
-* Django 🌐
+* Python
+* Django
 * HTML5
 * CSS3
 
 ---
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 * 🔍 Listagem de oportunidades freelance
 * 📝 Cadastro de novas vagas
@@ -28,11 +28,11 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 
 ---
 
-## 🖼️ Demonstração do Sistema
+## Demonstração do Sistema
 
-> 📌 **Dica:** Crie uma pasta chamada `images` ou `assets` dentro do seu projeto e coloque os prints lá.
+> **Dica:** Crie uma pasta chamada `images` ou `assets` dentro do seu projeto e coloque os prints lá.
 
-### 🔐 Tela de Login
+### Tela de Login
 
 ```md
 ![Tela de Login](images/login.png)
@@ -44,19 +44,19 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 ![Página Inicial](images/home.png)
 ```
 
-### 🔎 Busca de Oportunidades
+### Busca de Oportunidades
 
 ```md
 ![Busca de Oportunidades](images/busca.png)
 ```
 
-### 📄 Detalhes da Vaga
+### Detalhes da Vaga
 
 ```md
 ![Detalhes da Vaga](images/detalhes.png)
 ```
 
-### ➕ Cadastro de Vaga
+### Cadastro de Vaga
 
 ```md
 ![Cadastro de Vaga](images/cadastro.png)
@@ -64,7 +64,7 @@ A plataforma funciona como um **site de busca de oportunidades freelance**, onde
 
 ---
 
-## 🧠 Como Funciona
+## Como Funciona
 
 A aplicação segue o padrão **Model-View-Template (MVT)** do Django:
 
@@ -76,7 +76,7 @@ O sistema conecta freelancers a oportunidades, permitindo a publicação e busca
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório
 
@@ -136,7 +136,7 @@ http://127.0.0.1:8000/
 
 ---
 
-## 📈 Melhorias Futuras
+## Melhorias Futuras
 
 * Sistema de avaliação ⭐
 * Chat em tempo real 💬
@@ -148,13 +148,12 @@ http://127.0.0.1:8000/
 ## 👨‍💻 Autor
 
 **André Henrique Martins Marciano**
-📍 São João del-Rei – MG
-🔗 LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/)
-💻 GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
+São João del-Rei – MG
+LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/) GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
 
 ---
 
-## 📄 Licença
+## Licença
 
 MIT License
 

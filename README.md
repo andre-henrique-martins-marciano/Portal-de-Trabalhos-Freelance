@@ -1,6 +1,6 @@
 ---
-**PORTAL DE TRABALHO (FREELANCE)
-
+PORTAL DE TRABALHO (FREELANCE)
+---
 Sobre o Projeto
 
 Este projeto é uma aplicação web desenvolvida com **Python e Django**, com o objetivo de conectar freelancers a oportunidades de trabalho.

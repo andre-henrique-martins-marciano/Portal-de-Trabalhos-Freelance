@@ -148,10 +148,10 @@ http://127.0.0.1:8000/
 ## Autor
 
 **André Henrique Martins Marciano**
-São João del-Rei – MG
-LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/) 
-GitHub: [https://github.com/andre-henrique-martins-marciano](https://github.com/andre-henrique-martins-marciano)
 
+
+
+LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.linkedin.com/in/andre-h-martins-marciano/) 
 ---
 
 ## Licença

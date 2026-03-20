@@ -1,5 +1,5 @@
 ---
-PORTAL DE TRABALHOs (FREELANCE)
+Portal de Trabalhos Freelance
 ---
 Sobre o Projeto
 
@@ -160,8 +160,3 @@ LinkedIn: [https://www.linkedin.com/in/andre-h-martins-marciano/](https://www.li
 MIT License
 
 ---
-
-Se quiser, posso ainda:
-
-* montar **prints ideais (o que mostrar em cada tela)**
-* ou transformar isso em um README nível **GitHub destaque (com badges, status, deploy, etc.)** 🚀
